@@ -1,4 +1,4 @@
-# Hospital-ER-Dashboard-Power-BI
+# Hospital ER Dashboard - Power BI
 The Analysis is based on 2 years of data from Apr 2023 to Oct 2024.
 
 Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00ZjJiLWJiZTMtZDkzYzM1YTk4Nzc1IiwidCI6IjVhMmI1NGY1LTU3OTItNDhmOC05NzE1LTc0ZDJlMTY5NmU1NCJ9&pageName=b475b47db124dd306d02
@@ -54,7 +54,7 @@ This dashboard provides a consolidated view of the performance and utilization m
 ## Time and Day Insights:
 
 ### Patients by Day of the Week:
-- The highest patient count on Saturdays (1,377 patients), followed by Fridays (1,310 patients).
+- The highest patient count is on Saturdays (1,377 patients), followed by Fridays (1,310 patients).
 - Lowest on Mondays (1,314 patients).
 
 ### Patients by Hour of the Day:
