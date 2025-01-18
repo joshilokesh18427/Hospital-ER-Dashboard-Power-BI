@@ -6,9 +6,9 @@ Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00Zj
 # Data Preparation:
 
 ### Extract, Transform, Load (ETL) -
-- Extract the data from the CSV file provided using get data feature, preview the data for understanding columns' distribution and quality.
+- Extract the data from the CSV file provided using the get data feature, and preview the data to understand columns' distribution and quality.
 
-- Clean and transform the data using power query editor for manipulating the data into the desired format for the analysis.
+- Clean and transform the data using the power query editor to manipulate the data into the desired format for the analysis.
   Perform necessary steps like -
    - Remove unnecessary columns: Delete columns that are not needed for analysis.
    - Rename columns: For better clarity or consistency.
@@ -20,7 +20,7 @@ Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00Zj
 - Load the transformed data into the Power BI Data Model to make it available for report creation.
 
 ### Data Modelling - 
-   - Creating measures, calculated columns and date table using DAX.
+   - Creating measures, calculated columns, and date table using DAX.
    - Setting up relationships between tables to ensure accurate aggregation and reporting.
 
 # Summary and Analysis
@@ -32,7 +32,7 @@ This dashboard highlights operational data for patient flow and emergency room e
 ## Summary
 
 ### Key Metrics:
-- **Number of Patients**: 9,000 attended during the selected period.
+- **Number of Patients**: 9,000+ attended during the selected period.
 - **Average Wait Time**: 35.3 minutes.
 - **Average Satisfaction Score**: 5.0 out of 10 (indicating moderate satisfaction).
 - **Number of Referrals**: 4,000.
