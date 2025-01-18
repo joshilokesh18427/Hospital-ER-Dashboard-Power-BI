@@ -1,9 +1,9 @@
-# Hospital ER Dashboard - Power BI
+# Hospital Emergency Room Dashboard - Power BI
 The Analysis is based on 2 years of data from Apr 2023 to Oct 2024, with 9216 unique patients' records.
 
-Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00ZjJiLWJiZTMtZDkzYzM1YTk4Nzc1IiwidCI6IjVhMmI1NGY1LTU3OTItNDhmOC05NzE1LTc0ZDJlMTY5NmU1NCJ9&pageName=b475b47db124dd306d02
+Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00ZjJiLWJiZTMtZDkzYzM1YTk4Nzc1IiwidCI6IjVhMmI1NGY1LTU3OTItNDhmOC05NzE1LTc0ZDJlMTY5NmU1NCJ9&pageName=b475b47db124dd306d02)
 
-# Hospital Emergency Room Dashboard: Summary and Analysis
+# Summary and Analysis
 
 This dashboard highlights operational data for patient flow and emergency room efficiency. It identifies key trends, such as the high admission rate, peak hours, and demographic distributions, helping stakeholders make informed decisions to improve service delivery and patient satisfaction. Below is a detailed summary, analysis, and suggestions for improvements.
 
@@ -99,4 +99,4 @@ This dashboard highlights operational data for patient flow and emergency room e
 
 By addressing the challenges highlighted in the descriptive analysis and implementing these suggestions, the hospital can improve operational efficiency, reduce patient wait times, and enhance overall satisfaction levels.
 
-
+Dataset Sourced from - [Link](https://drive.google.com/drive/folders/1mg8zaCAVh-yzbEcX710vZ5NvzlF-xV6b?usp=drive_link)
