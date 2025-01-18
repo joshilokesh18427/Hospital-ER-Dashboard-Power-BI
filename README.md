@@ -3,6 +3,26 @@ The Analysis is based on 2 years of data from Apr 2023 to Oct 2024, with 9216 un
 
 Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00ZjJiLWJiZTMtZDkzYzM1YTk4Nzc1IiwidCI6IjVhMmI1NGY1LTU3OTItNDhmOC05NzE1LTc0ZDJlMTY5NmU1NCJ9&pageName=b475b47db124dd306d02)
 
+# Data Preparation:
+
+### Extract, Transform, Load (ETL) -
+- Extract the data from the CSV file provided using get data feature, preview the data for understanding columns' distribution and quality.
+
+- Clean and transform the data using power query editor for manipulating the data into the desired format for the analysis.
+  Perform necessary steps like -
+   - Remove unnecessary columns: Delete columns that are not needed for analysis.
+   - Rename columns: For better clarity or consistency.
+   - Change data types: Correct or modify column data types (if required).
+   - Handling missing values (if any).
+   - Concatenate columns: (e.g., first name & last name).
+   - Replace column values: Change abbreviations to complete words.
+
+- Load the transformed data into the Power BI Data Model to make it available for report creation.
+
+### Data Modelling - 
+   - Creating measures, calculated columns and date table using DAX.
+   - Setting up relationships between tables to ensure accurate aggregation and reporting.
+
 # Summary and Analysis
 
 This dashboard highlights operational data for patient flow and emergency room efficiency. It identifies key trends, such as the high admission rate, peak hours, and demographic distributions, helping stakeholders make informed decisions to improve service delivery and patient satisfaction. Below is a detailed summary, analysis, and suggestions for improvements.
