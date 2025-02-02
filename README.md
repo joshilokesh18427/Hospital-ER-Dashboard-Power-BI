@@ -6,7 +6,7 @@ Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00Zj
 # Data Preparation:
 
 ### Extract, Transform, Load (ETL) -
-- Extract the data from the CSV file provided using the get data feature, and preview the data to understand columns' distribution and quality.
+- Extract the data from the CSV file using the get data feature, and preview the data to understand the columns' distribution and quality.
 
 - Clean and transform the data using the power query editor to manipulate the data into the desired format for the analysis.
   Perform necessary steps like -
@@ -20,12 +20,12 @@ Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZDUxMDgtMzA4ZC00Zj
 - Load the transformed data into the Power BI Data Model to make it available for report creation.
 
 ### Data Modelling - 
-   - Creating measures, calculated columns, and date table using DAX.
+   - Creating measures, calculated columns, and date-table using DAX.
    - Setting up relationships between tables to ensure accurate aggregation and reporting.
 
 # Summary and Analysis
 
-This dashboard highlights operational data for patient flow and emergency room efficiency. It identifies key trends, such as the high admission rate, peak hours, and demographic distributions, helping stakeholders make informed decisions to improve service delivery and patient satisfaction. Below is a detailed summary, analysis, and suggestions for improvements.
+This dashboard highlights operational data for patient flow and emergency room efficiency. It identifies key trends, such as the high admission rate, peak hours, and demographic distributions, helping stakeholders make informed decisions to improve service delivery and patient satisfaction. Below is a detailed summary, analysis, and suggestions for improvement.
 
 ---
 
